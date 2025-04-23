@@ -88,7 +88,6 @@
 │ ├── model_2800_20epoch # Best trained model
 │ └── ... # Training scripts and datasets
 
-
 ---
 
 ## Usage
@@ -120,7 +119,7 @@ Both Pavan Pandya and Jill Gosrani contributed equally to the design, coding, an
 
 ## Contact
 
-For questions, feedback, or collaboration, reach out via [Pavan Pandya] (https://www.linkedin.com/in/pavan-pandya/) or [Jill Gosrani](https://www.linkedin.com/in/jill-gosrani/).
+For questions, feedback, or collaboration, reach out via [Pavan Pandya](https://www.linkedin.com/in/pavan-pandya/) or [Jill Gosrani](https://www.linkedin.com/in/jill-gosrani/).
 
 ---
 
