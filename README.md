@@ -75,18 +75,19 @@
 
 ## Project Structure
 
-
-├── gomoku.py # Core game logic and board management
-├── compete.py # Run games between two agents (human or AI)
-├── performance.py # Benchmark AI performance, save results to perf.pkl
-├── policies/
-│ ├── human.py # Human player interface
-│ ├── random.py # Random move agent
-│ ├── minimax.py # Minimax agent
-│ ├── submission.py # Hybrid CNN + minimax agent (main AI)
-│ └── CNN+model/
-│ ├── model_2800_20epoch # Best trained model
-│ └── ... # Training scripts and datasets
+```
+├── gomoku.py # Core game logic and board management  
+├── compete.py # Run games between two agents (human or AI)  
+├── performance.py # Benchmark AI performance, save results to perf.pkl  
+├── policies/  
+│   ├── human.py # Human player interface  
+│   ├── random.py # Random move agent  
+│   ├── minimax.py # Minimax agent  
+│   ├── submission.py # Hybrid CNN + minimax agent (main AI)  
+│   └── CNN+model/  
+│       ├── model_2800_20epoch # Best trained model  
+│       └── ... # Training scripts and datasets  
+```
 
 ---
 
