@@ -75,7 +75,7 @@
 
 ## Project Structure
 
-.
+
 ├── gomoku.py # Core game logic and board management
 ├── compete.py # Run games between two agents (human or AI)
 ├── performance.py # Benchmark AI performance, save results to perf.pkl
@@ -120,7 +120,7 @@ Both Pavan Pandya and Jill Gosrani contributed equally to the design, coding, an
 
 ## Contact
 
-For questions, feedback, or collaboration, reach out via [Pavan Pandya](https://github.com/Pavan-Pandya1) or [Jill Gosrani](https://github.com/jill-gosrani).
+For questions, feedback, or collaboration, reach out via [Pavan Pandya] (https://www.linkedin.com/in/pavan-pandya/) or [Jill Gosrani](https://www.linkedin.com/in/jill-gosrani/).
 
 ---
 
