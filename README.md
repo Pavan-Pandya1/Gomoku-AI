@@ -3,7 +3,7 @@
 
 ---
 
-![Gomoku Board](https://upload.wikimedia.org/wikipedia/commons/3/3f/Gomoku_board_example.png)
+![Gomoku Board](https://en.wikipedia.org/wiki/Gomoku#/media/File:Renju.jpg)
 
 ---
 
