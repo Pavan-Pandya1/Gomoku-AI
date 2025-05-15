@@ -129,7 +129,7 @@ python3 performance.py
 
 ## Contributions
 
-Both Pavan Pandya and Jill Gosrani contributed equally to the design, coding, and integration of the neural network and minimax heuristic, with primary development in:
+Both me and Jill have contributed equally to the design, coding, and integration of the neural network and minimax heuristic, with primary development in:
 
 - `policies/submission.py` (hybrid agent logic)
 - `policies/CNN+model/` (model architecture, data preparation, training)
